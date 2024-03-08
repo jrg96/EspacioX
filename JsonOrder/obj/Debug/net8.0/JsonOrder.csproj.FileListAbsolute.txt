@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\bin\Debug\net8.0\JsonOrder.exe
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\bin\Debug\net8.0\JsonOrder.deps.json
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\bin\Debug\net8.0\JsonOrder.runtimeconfig.json
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\bin\Debug\net8.0\JsonOrder.dll
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\bin\Debug\net8.0\JsonOrder.pdb
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\obj\Debug\net8.0\JsonOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\obj\Debug\net8.0\JsonOrder.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\obj\Debug\net8.0\JsonOrder.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\obj\Debug\net8.0\JsonOrder.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\obj\Debug\net8.0\JsonOrder.dll
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\obj\Debug\net8.0\refint\JsonOrder.dll
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\obj\Debug\net8.0\JsonOrder.pdb
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\obj\Debug\net8.0\JsonOrder.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\JsonOrder\JsonOrder\obj\Debug\net8.0\ref\JsonOrder.dll
